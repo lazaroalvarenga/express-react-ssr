@@ -1,1 +1,1 @@
-# sample-express-react-ssr
+# SSR App with React + Express
